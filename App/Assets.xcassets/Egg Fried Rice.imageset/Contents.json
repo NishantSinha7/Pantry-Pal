@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Egg Fried Rice.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
